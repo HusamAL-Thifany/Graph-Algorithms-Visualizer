@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+
+# VS / user settings
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / VSCode
+.vscode/
+.idea/
+
+# ReSharper
+*.ReSharper*
+
+# .NET specific
+*.cache
+*.pdb
+
+# OS files
+Thumbs.db
+Desktop.ini
+
